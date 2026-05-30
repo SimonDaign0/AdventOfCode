@@ -1,0 +1,12 @@
+.envrc
+.env
+.env.local
+.direnv/
+result
+result-*
+target/
+Cargo.lock
+tmp/
+flake.nix
+flake.lock
+*.txt
